@@ -1,5 +1,5 @@
 # learningObjectives
- My aim is to successfully transition careers to become a Junior Software Engineer. I have been encouraged to document journey, so here it goes....
+ My aim is to successfully transition careers to become a Junior Software Engineer. I have been encouraged to document my journey, so here it goes....
 
  First, I want to establish my 'why' to be consistent with my learning:
 
