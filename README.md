@@ -5,12 +5,12 @@
 
  * My first degree @ University was in Computer Science and I was excited about the prospect of studying it. However, I quit after my first year. I did not receive the support to successfully complete the degree; the gender imbalance was unreal for 18 year old me and I was the only black girl on the degree programme. Furthermore, I was struggling - most of my fellow students had prior knowledge and were miles ahead of me. As the first in my family to attend university, I opted to change degrees as I did not have the heart to fail miserably. I have no regrets changing my academic path - life is full of curveballs and now I am back on the right path.
  * You have one life to live - You have the power to change the trajectory of your life. This process of changing my career has given me a new lease after losing my father, who dedicated his life to his family. He believed in everything I did and was proud of me regardless. He lived life to the fullest he could, I promise to do the same.
- * I am a problem solver, learn new things and like to get things done - Regardless of the complexity of the problem, I always aim to achieve the end result on my own or collaboratively with other people. Learning new things so far in my journey has stretched my knowledge and capabilities, which has been rewarding and satisfying.
+ * Love learning new things - Learning new things so far in my journey has stretched my knowledge and capabilities, which has been rewarding and satisfying. I want to become more acquainted in both front end and back end software development.
  * The skills gained from my current career in Higher Education are transferable - I believe I am a good communicator, team player, willingness to learn new things and have a keen eye for detail.
  * Ability to be a role model to young girls, in particular BAME girls who want to go into software engineering or other tech roles. Traditional professions such as Accountancy, Law and Teaching are still advocated to young BAME girls as the subjects to select vocationally or academically. I want to be able to support young BAME girls to choose their passion over the profession.
  * I love the Tech Community - Why wouldn't I want to part of a community that has been so encouraging in both physical and virtual spaces. If this community existed whilst I studied at university, I do not think I would have quit.
 
- 2019 - 20
+ #2019 - 20
  As I am pursuing the self-taught route into Software Development, I have given myself 12 months (August 2019) to fulfil my goal to obtain a role as a Junior Software Engineer or Associate Software Engineer.
 
 I have been inspired by @Nirvikalpa108's learning plan outlined in Sprints. So, I will be adopting this type of agile process.
