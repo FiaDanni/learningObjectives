@@ -10,7 +10,7 @@
  * Ability to be a role model to young girls, in particular BAME girls who want to go into software engineering or other tech roles. Traditional professions such as Accountancy, Law and Teaching are still advocated to young BAME girls as the subjects to select vocationally or academically. I want to be able to support young BAME girls to choose their passion over the profession.
  * I love the Tech Community - Why wouldn't I want to part of a community that has been so encouraging in both physical and virtual spaces. If this community existed whilst I studied at university, I do not think I would have quit.
 
- #2019 - 20
+ ## 2019 - 20
  As I am pursuing the self-taught route into Software Development, I have given myself 12 months (August 2019) to fulfil my goal to obtain a role as a Junior Software Engineer or Associate Software Engineer.
 
 I have been inspired by @Nirvikalpa108's learning plan outlined in Sprints. So, I will be adopting this type of agile process.
