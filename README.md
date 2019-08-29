@@ -17,26 +17,26 @@ I have been inspired by @Nirvikalpa108's learning plan outlined in Sprints. So, 
 
 My learning objectives for July - September 2019 (Q3 in 2019) - subject to change:
 
-# Personal
+## Personal
 
-* Finish what I’ve started: Spend 30 mins each morning or evening undertaking Codebar’s HTML and CSS tutorials (3 – 4). Complete by 19 September 2019.
-* Study Ruby for an hour each morning prior to work with Codecamedy and Codebar tutorials. NB: On Saturdays, spend two hours in the morning.  If you need further clarification on concepts, use Codebar slack, Youtube, Twitter and/or Stackoverflow. Complete by 19 September 2019.
-* Once I’ve completed Codecamedy and Codebar tutorial’s on Ruby, attempt one Codewars and Exercism challenge. Complete by 26 September 2019.
-* Start to work through the Flatiron School bootcamp prep course online - This will allow me to reaffirm my learning in HTML, CSS, Ruby and introduce JavaScript to my learning. Complete HTML and CSS elements of the course by 26 September 2019 for an hour each morning prior to work.
+* Finish what I’ve started: Spend 30 mins each morning or evening undertaking Codebar’s HTML and CSS tutorials (3 – 4). **Complete by 19 September 2019.**
+* Study Ruby for an hour each morning prior to work with Codecamedy and Codebar tutorials. NB: On Saturdays, spend two hours in the morning.  If you need further clarification on concepts, use Codebar slack, Youtube, Twitter and/or Stackoverflow. **Complete by 19 September 2019.**
+* Once I’ve completed Codecamedy and Codebar tutorial’s on Ruby, attempt one Codewars and Exercism challenge. **Complete by 26 September 2019.**
+* Start to work through the Flatiron School bootcamp prep course online - This will allow me to reaffirm my learning in HTML, CSS, Ruby and introduce JavaScript to my learning. Complete HTML and CSS elements of the course by **26 September 2019** for an hour each morning prior to work.
 
-# Events:
+## Events:
 
 * Attend Codebar workshop, ideally once a week if possible - I will utilise my time with a Coach to clarify Ruby concepts that I may not be familiar with, blog project or Flatiron bootcamp prep course. Workshops are run on 4, 11, 18 and 25 September 2019.
 * Undertake ‘Introduction to JavaScript’ - Node Girls Workshop on 31 August 2019, London. Assess whether JavaScript is a language that I would like to pursue.
 * Attend (and possibly partake) Codebar's Uncoderbar conference on 14 September 2019, London.
 
-# Project:
+## Project:
 
-To utilise my skills obtained from Code First: Girls create a responsive, dynamic blog from scratch via Github pages. During this sprint, I will create the wireframes for the blog.  Write two brief articles (no more than 5 mins read) about my programming journey on the commute to or fro work. Complete by 25 September 2019.  
+To utilise my skills obtained from Code First: Girls create a responsive, dynamic blog from scratch via Github pages. During this sprint, I will create the wireframes for the blog.  Write two brief articles (no more than 5 mins read) about my programming journey on the commute to or from work. **Complete by 25 September 2019.**  
 
-# Bonus – only if I am ahead of the game:
+## Bonus – only if I am ahead of the game:
 
-Explore open source using the resources obtained at Codebar. Contribute to one of Codebar’s open source documents. Complete by 26 September 2019.
+Explore open source using the resources obtained at Codebar. Contribute to one of Codebar’s open source documents. **Complete by 26 September 2019.**
 
 
 ## Previous Sprints:
