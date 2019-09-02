@@ -13,34 +13,39 @@
  ## 2019 - 20
  As I am pursuing the self-taught route into Software Development, I have given myself 12 months (August 2020) to fulfil my goal to obtain a role as a Junior Software Engineer or Associate Software Engineer.
 
-I have been inspired by @Nirvikalpa108's learning plan outlined in Sprints. So, I will be adopting this type of agile process.
+I have been inspired by @Nirvikalpa108's learning plan outlined in sprints. So, I will be adopting this type of agile process.
 
-My learning objectives for September 2019 (Q3 in 2019):
+## My learning objectives for September 2019 (Q3 in 2019):
 
-## Personal
+I need to be realistic with my learning objectives to remain balanced with life and work. Life without balance = chaos!
 
-* Finish what I’ve started: Spend 30 mins each morning or evening undertaking Codebar’s HTML and CSS tutorials (3 – 4). **Complete by 19 September 2019.**
-* Study Ruby for an hour each morning prior to work with Codecamedy and Codebar tutorials. **NB:** On Saturdays, spend two hours in the morning.  If you need further clarification on concepts, use Codebar slack, Youtube, Twitter and/or Stackoverflow. **Complete by 19 September 2019.**
-* Once I’ve completed Codecamedy and Codebar tutorial’s on Ruby, attempt one Codewars and Exercism challenge. **Complete by 26 September 2019.**
-* Start to work through the Flatiron School bootcamp prep course online - This will allow me to reaffirm my learning in HTML, CSS, Ruby and introduce JavaScript to my learning. Complete HTML and CSS elements of the course by **26 September 2019** for an hour each morning prior to work.
+So, I will be committing to **1 hour each week day and 2 hours on the weekend.**
 
-## Events:
+In the order of priority, I will be undertaking/participating in the following tasks/events –
 
-* Attend Codebar workshop, ideally once a week if possible - I will utilise my time with a Coach to clarify Ruby concepts that I may not be familiar with, blog project or Flatiron bootcamp prep course. Workshops are run on 4, 11, 18 and 25 September 2019.
-* Undertake ‘Introduction to JavaScript’ - Node Girls Workshop on 31 August 2019, London. Assess whether JavaScript is a language that I would like to pursue.
-* Attend (and possibly partake) Codebar's Uncoderbar conference on 14 September 2019, London.
+**1 September – 19 September 2019**
 
-## Project:
+* Codebar Tutorial - HTML and CSS
+* Codeacademy – Ruby
+* Codebar Tutorial – Ruby
+* Attend Codebar’s uncoderbar conference (14 September 2019)
 
-To utilise my skills obtained from Code First: Girls create a responsive, dynamic blog from scratch via Github pages. During this sprint, I will create the wireframes for the blog.  Write two brief articles (no more than 5 mins read) about my programming journey on the commute to or from work. **Complete by 25 September 2019.**  
+**20 September – 26 September 2019**
 
-## Bonus – only if I am ahead of the game:
+*	Anything on the above I have not completed
+* Ruby Exercism Hello World and 1 more challenge
+* Codewars Ruby 1 challenge
+* Explore open source using the resources obtained at Codebar.
 
-Explore open source using the resources obtained at Codebar. Contribute to one of Codebar’s open source documents. **Complete by 26 September 2019.**
+**Future learning for next sprint:**
 
+* Learn JavaScript – I had the opportunity to attend Node Girls Beginners JavaScript workshop in August 2019, where I experienced the wonders of JavaScript and would like to pursue this further.
+* Flatiron School prep course bootcamp online - This will allow me to reiterate what I have learnt in HTML, CSS, JavaScript and Ruby skills.
+* Blog Website - To utilise my skills obtained from Code First: Girls to create a responsive, dynamic blog from scratch via Github pages.
+* Contribute to one of codebar's open source documents.
 
 ## Previous Sprints:
 
-Q3 in 2019: July 2019 - Completed Code First: Girls web developmnent programme @ NewDay, August 2019 - Attended spoke about my CF:Girls experience at Coding Black Females meetup.
+Q3 in 2019: July 2019 - Completed Code First: Girls web developmnent programme @ NewDay, August 2019 - Attended and Spoke about my CF:Girls experience at Coding Black Females meetup. Undertook Node Girls Beginners JavaScript workshop in August 2019.
 
 Q2 in 2019: April 2019 - Attended women tech meetup: Women in Tech Meetup (Salesforce). Started my programming journey learning Javascript from freeCodeCamp.  June 2019 - Went to my first tech conference: Wonder Woman in Tech conference.
